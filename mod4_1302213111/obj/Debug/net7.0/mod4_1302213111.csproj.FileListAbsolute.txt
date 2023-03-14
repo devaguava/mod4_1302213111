@@ -1,0 +1,15 @@
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.csproj.AssemblyReference.cache
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.AssemblyInfoInputs.cache
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.AssemblyInfo.cs
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.csproj.CoreCompileInputs.cache
+D:\mod4_1302213111\mod4_1302213111\bin\Debug\net7.0\mod4_1302213111.exe
+D:\mod4_1302213111\mod4_1302213111\bin\Debug\net7.0\mod4_1302213111.deps.json
+D:\mod4_1302213111\mod4_1302213111\bin\Debug\net7.0\mod4_1302213111.runtimeconfig.json
+D:\mod4_1302213111\mod4_1302213111\bin\Debug\net7.0\mod4_1302213111.dll
+D:\mod4_1302213111\mod4_1302213111\bin\Debug\net7.0\mod4_1302213111.pdb
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.dll
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\refint\mod4_1302213111.dll
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.pdb
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\mod4_1302213111.genruntimeconfig.cache
+D:\mod4_1302213111\mod4_1302213111\obj\Debug\net7.0\ref\mod4_1302213111.dll
